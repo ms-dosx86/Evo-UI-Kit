@@ -1,3 +1,10 @@
+## [3.5.1](https://github.com/evotor/Evo-UI-Kit/compare/v3.5.0...v3.5.1) (2019-08-28)
+
+
+### Bug Fixes
+
+* **popover:** inline-block host ([aa82dbc](https://github.com/evotor/Evo-UI-Kit/commit/aa82dbc))
+
 # [3.5.0](https://github.com/evotor/Evo-UI-Kit/compare/v3.4.0...v3.5.0) (2019-08-27)
 
 
