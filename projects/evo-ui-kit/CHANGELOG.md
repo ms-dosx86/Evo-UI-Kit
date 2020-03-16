@@ -1,3 +1,17 @@
+# [4.6.0](https://github.com/evotor/Evo-UI-Kit/compare/v4.5.1...v4.6.0) (2020-03-16)
+
+
+### Bug Fixes
+
+* **evo-tabs:** dynamic update of tabs ([767383d](https://github.com/evotor/Evo-UI-Kit/commit/767383d9dc8edf5bc49c137e056e0a77d0c307d0))
+* **evo-tabs:** remove async logic ([28e7240](https://github.com/evotor/Evo-UI-Kit/commit/28e724038250838df226aa7c04af973f1851a826))
+* **upload:** validate files sum ([a914e19](https://github.com/evotor/Evo-UI-Kit/commit/a914e19626ad0042b8ee610a4d76040cca868f57))
+
+
+### Features
+
+* **upload:** uppercase extension ([1b19c5c](https://github.com/evotor/Evo-UI-Kit/commit/1b19c5c907e9d2bd59fae3fbaf4a238cea0c8782))
+
 ## [4.5.1](https://github.com/evotor/Evo-UI-Kit/compare/v4.5.0...v4.5.1) (2020-02-27)
 
 
