@@ -1,3 +1,10 @@
+## [3.34.1](https://github.com/evotor/Evo-UI-Kit/compare/v3.34.0...v3.34.1) (2020-04-16)
+
+
+### Bug Fixes
+
+* **deps:** fix @popperjs/core dependency version ([14a8d8f](https://github.com/evotor/Evo-UI-Kit/commit/14a8d8f))
+
 # [3.34.0](https://github.com/evotor/Evo-UI-Kit/compare/v3.33.2...v3.34.0) (2020-03-16)
 
 
