@@ -3,7 +3,8 @@
   "branches": [
     "master",
     "versions/v4",
-    "versions/v5"
+    "versions/v5",
+    "next"
   ],
   "verifyConditions": [
     "@semantic-release/changelog",
